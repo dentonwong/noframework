@@ -1,4 +1,4 @@
-# Title
+# No Framework CRUD
 
 This is a very simple CRUD application using vanilla JS frontend DOM manipulation. The backend is written with Express JS.
 
