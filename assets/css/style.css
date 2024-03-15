@@ -1,0 +1,52 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.title {
+  margin: 0 auto;
+  width: 50%;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.purchase {
+  
+  width: min-content;
+  height: min-content;
+}
+
+#signin {
+  margin: auto;
+  width: 25%;
+  padding-top:5%;
+  text-align: center;
+  background-color: #d3d3d3;
+  border: 1px solid black;
+}
+
+#submit {
+  margin-bottom: 10px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+#create{
+  margin: 0 auto;
+  width: 50%;
+  text-align: center;
+  margin-top: 3%;
+}
+
+#item-list {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.item {
+  min-width: 150px;
+  border: 1px solid black;
+  text-align: center;
+}
