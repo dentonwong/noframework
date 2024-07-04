@@ -14,7 +14,7 @@ This is a very simple CRUD application using vanilla JS frontend DOM manipulatio
 ## Install
 
 ```
-npm run install
+npm install
 ```
 
 ## Usage
